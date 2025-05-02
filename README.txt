@@ -1,1 +1,1 @@
-This is a personalised website created using HTML, CSS & JS
+This repository involves source codes for personal website creating using HTML, CSS & Javascript.
